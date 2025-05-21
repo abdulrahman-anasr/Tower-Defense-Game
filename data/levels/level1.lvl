@@ -1,0 +1,15 @@
+e data/enemies/batboy.enm
+e data/enemies/anatomy.enm
+c data/towers/Calico.twr
+c data/towers/Lucifer.twr
+b data/bullets/basic.blt
+t 0.5 7.0
+m assets/maps/level1.png 752 423
+p 1460 950
+p 1460 650
+p 375 650
+p 375 350
+p 850 350
+p 850 180
+p 1000 180
+p 1000 0
