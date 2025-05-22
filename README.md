@@ -1,7 +1,7 @@
 # Tower Defense Game
 
 ## Controls
-Press X to show/hide tab of characters
+Press X to show/hide tab of characters \
 Use Mouse to position Towers/Characters
 
 ## Screenshots
